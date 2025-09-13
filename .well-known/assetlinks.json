@@ -8,8 +8,7 @@
       "namespace": "android_app",
       "package_name": "com.h3xto.h3xt0",
       "sha256_cert_fingerprints": [
-        "PASTE_PLAY_SHA256_HERE"
-        // , "4B:8F:6E:3F:83:1E:67:C2:09:FE:45:23:54:AC:26:6A:33:00:BB:05:F7:91:4E:3C:F6:CA:18:F5:EF:E1:4C:07"
+        "4B:8F:6E:3F:83:1E:67:C2:09:FE:45:23:54:AC:26:6A:33:00:BB:05:F7:91:4E:3C:F6:CA:18:F5:EF:E1:4C:07"
       ]
     }
   }
