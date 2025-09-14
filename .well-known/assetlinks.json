@@ -1,14 +1,12 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls",
-      "delegate_permission/common.get_login_creds"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.h3xto.h3xt0",
       "sha256_cert_fingerprints": [
-        "4B:8F:6E:3F:83:1E:67:C2:09:FE:45:23:54:AC:26:6A:33:00:BB:05:F7:91:4E:3C:F6:CA:18:F5:EF:E1:4C:07"
+        "4B:8F:6E:3F:83:1E:67:C2:09:FE:45:23:54:AC:26:6A:33:00:BB:05:F7:91:4E:3C:F6:CA:18:F5:EF:E1:4C:07",
+        "40:EC:D2:97:0A:1A:00:28:C0:5D:34:34:EE:1C:18:07:70:17:68:41:0C:A9:88:2D:A3:2D:3C:29:3C:DE:08:BD"
       ]
     }
   }
